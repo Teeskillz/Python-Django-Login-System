@@ -1,0 +1,26 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on localhost:8000
+From: webmaster@localhost
+To: teeskillz@emall.co.ke
+Date: Fri, 27 Sep 2019 08:32:19 -0000
+Message-ID: 
+ <156957313965.6149.12254439532200663427@teeskillz-HP-15-Notebook-PC>
+
+
+You're receiving this email because you requested a password reset for your user account at localhost:8000.
+
+Please go to the following page and choose a new password:
+
+http://localhost:8000/accounts/reset/MQ/5a3-3dd5a90e418287111e00/
+
+Your username, in case you've forgotten: teeskillz
+
+Thanks for using our site!
+
+The localhost:8000 team
+
+
+
+-------------------------------------------------------------------------------
